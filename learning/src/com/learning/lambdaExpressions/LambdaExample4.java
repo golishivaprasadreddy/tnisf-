@@ -8,3 +8,9 @@ public class LambdaExample4 {
         System.out.println("Square of 6: " + square.calculate(6));
     }
 }
+
+/*
+ * output
+ * 
+ * Square of 6: 36
+ */
