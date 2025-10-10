@@ -1,4 +1,5 @@
-package com.learning;
+package com.learning.controlStatements;
+
 
 import java.util.Scanner;
 

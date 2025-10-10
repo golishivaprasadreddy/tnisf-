@@ -1,4 +1,4 @@
-package com.learning;
+package com.learning.controlStatements;
 
 public class loopsStatement {
 

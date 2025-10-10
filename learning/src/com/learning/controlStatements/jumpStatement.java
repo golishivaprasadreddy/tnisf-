@@ -1,4 +1,6 @@
-package com.learning;
+package com.learning.controlStatements;
+
+
 
 public class jumpStatement {
 
@@ -32,3 +34,4 @@ public class jumpStatement {
 //BREAK example: 1 2 3 4 5 
 //CONTINUE example: 1 2 4 5 
 //
+
