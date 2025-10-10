@@ -1,4 +1,4 @@
-package com.learning;
+package com.learning.inheritance;
 
 
 class Animal2 {

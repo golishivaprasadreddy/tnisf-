@@ -1,4 +1,5 @@
-package com.learning;
+package com.learning.oops;
+
 
 class Calculator {
     int add(int a, int b) {

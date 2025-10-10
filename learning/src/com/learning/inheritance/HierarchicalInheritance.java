@@ -1,4 +1,4 @@
-package com.learning;
+package com.learning.inheritance;
 
 class Animal {
     void eat() {
@@ -34,3 +34,4 @@ public class HierarchicalInheritance {
 //I can bark.
 //I can eat.
 //I can meow.
+
